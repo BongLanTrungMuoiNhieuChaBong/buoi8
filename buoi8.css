@@ -1,0 +1,175 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  color: rgb(26, 28, 32);
+}
+body {
+  margin-left: 16opx;
+  margin-right: 160px;
+  background-color: rgb(238, 239, 241);
+}
+/*header*/
+header {
+  line-height: 28px;
+  position: fixed;
+  top: 32px;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+.nav-link1 {
+}
+.container {
+  width: 1434px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.logo-text {
+  width: 166px;
+  height: 28px;
+  line-height: 28px;
+  padding: 0px 0px 0px 15px;
+  font-weight: 500;
+  align-self: center;
+}
+.logo-picture {
+  width: 35px;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.flex {
+  display: flex;
+  align-items: flex-start;
+}
+.nav {
+  display: flex;
+  align-items: center;
+}
+.nav-link {
+  text-decoration: none;
+}
+.nav-link {
+  font-size: 15px;
+  color: rgb(50, 52, 58);
+  font-weight: 500;
+  line-height: 20px;
+  margin: 0px 30px 0px 0px;
+  padding: 9px 0px;
+  text-align: left;
+  text-decoration: none;
+  vertical-align: top;
+}
+.nav-link--button {
+  font-size: 15px;
+  height: 48px;
+  border-radius: 8px;
+  background-color: rgb(26, 27, 31);
+  padding: 12px 24px;
+  color: rgb(255, 255, 225);
+}
+/*maim*/
+main {
+  margin-top: 188px;
+  margin-left: 160px;
+}
+.hero {
+  margin-top: 188px;
+}
+.h1-hero {
+  font-size: 80px;
+  font-weight: 500;
+  margin: 10px 0px;
+  line-height: 90px;
+}
+.text-hero {
+  margin-bottom: 50px;
+  padding-bottom: 0px;
+  line-height: 39px;
+}
+.texthero {
+  margin-left: 50px;
+}
+.text {
+  color: rgb(26, 28, 32);
+  font-size: 25px;
+  font-weight: 300;
+  margin: 0px 0px 50px;
+}
+.my-career-so-far {
+  margin-top: 210px;
+  line-height: 32px;
+}
+.button {
+  list-style: none;
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-left: 40px;
+}
+.h1-2 {
+  width: 600px;
+  height: 62px;
+  align-items: center;
+}
+.text-my-career {
+  margin-top: 15px;
+  line-height: 32px;
+}
+
+.button li {
+  border: 1px solid #ced1df;
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500px;
+  letter-spacing: 1;
+  color: black;
+}
+.text-my-career {
+  width: 600px;
+  height: 256px;
+}
+.lana {
+  width: 150px;
+  border-radius: 200px;
+}
+.h5 {
+  font-size: 20px;
+  color: rgb(26, 27, 31);
+  font-weight: 500;
+  margin: 10px 0px 0px;
+  text-align: left;
+  line-height: 34px;
+}
+.text-lana {
+  margin-left: 295px;
+  margin-right: 190x;
+  line-height: 32px;
+}
+.profile-lana {
+  width: 255px;
+  height: 304px;
+}
+.h1-3 {
+  width: 1140px;
+  height: 92px;
+  font-size: 44px;
+  font-weight: 500px;
+  line-height: 62px;
+  margin: 20px 0px 15px;
+  font-weight: 400;
+  padding: 30px 0px 0px;
+}
+.text-5 {
+  width: 255px;
+  height: 28px;
+  font-size: 16px;
+  font-weight: 400;
+}
