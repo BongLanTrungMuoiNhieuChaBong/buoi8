@@ -67,6 +67,7 @@ header {
 }
 .nav-link--button {
   font-size: 15px;
+  width: 129px;
   height: 48px;
   border-radius: 8px;
   background-color: rgb(26, 27, 31);
@@ -112,6 +113,9 @@ main {
   flex-wrap: wrap;
   gap: 10px;
   padding-left: 40px;
+  text-align: center;
+  width: 440px;
+  height: 339px;
 }
 .h1-2 {
   width: 600px;
@@ -131,6 +135,8 @@ main {
   font-weight: 500px;
   letter-spacing: 1;
   color: black;
+  width: auto;
+  height: 41px;
 }
 .text-my-career {
   width: 600px;
@@ -152,6 +158,8 @@ main {
   margin-left: 295px;
   margin-right: 190x;
   line-height: 32px;
+  width: 845px;
+  height: 254px;
 }
 .profile-lana {
   width: 255px;
@@ -161,9 +169,10 @@ main {
   width: 1140px;
   height: 92px;
   font-size: 44px;
-  font-weight: 500px;
+  font-weight: 500;
   line-height: 62px;
-  margin: 20px 0px 15px;
+  margin-top: 120px;
+  margin-bottom: 15px;
   font-weight: 400;
   padding: 30px 0px 0px;
 }
